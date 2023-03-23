@@ -1,0 +1,5 @@
+/home/arivusurya/dailyAssingment/LINQADDRESSBOOK/AddressBook/obj/Debug/net7.0/AddressBook.csproj.AssemblyReference.cache
+/home/arivusurya/dailyAssingment/LINQADDRESSBOOK/AddressBook/obj/Debug/net7.0/AddressBook.GeneratedMSBuildEditorConfig.editorconfig
+/home/arivusurya/dailyAssingment/LINQADDRESSBOOK/AddressBook/obj/Debug/net7.0/AddressBook.AssemblyInfoInputs.cache
+/home/arivusurya/dailyAssingment/LINQADDRESSBOOK/AddressBook/obj/Debug/net7.0/AddressBook.AssemblyInfo.cs
+/home/arivusurya/dailyAssingment/LINQADDRESSBOOK/AddressBook/obj/Debug/net7.0/AddressBook.csproj.CoreCompileInputs.cache
